@@ -17,7 +17,7 @@
   },
   "K14_18_pixi/.openclawignore": {
     "sha256": "5b1fa6032372f10223dbb2272a865cdf76dfd0b8926c5f6cd418ee01975330ec",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/build.json": {
     "sha256": "64faa628beb6a7775ce6e2c94f71e2bc8c79988ebfefc0343c6124e5c8e9f31e",
@@ -65,7 +65,7 @@
   },
   "K14_18_pixi/LICENSE": {
     "sha256": "bdaa24050e3cd82da6bbd354de6ccb8af66cfe8dcfdf7a930d5990abd46b6159",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/llms-full.txt": {
     "sha256": "3ab950024b837c9f32fbed8488baa03e6a0412cdfb6d8e40d4267367094339e7",
@@ -209,7 +209,7 @@
   },
   "K14_18_pixi/public/assets_backlog/finisg_fx.tps": {
     "sha256": "1c4b05d5fda32a31a401293980b19dc8adfec9d45d3a7450a01feb00b58e8c89",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/public/assets_backlog/finish_fx.json": {
     "sha256": "0fc42d0a5db6b05048cfeb77eae850bc59031de452c37114e044d17c72a075e7",
@@ -221,7 +221,7 @@
   },
   "K14_18_pixi/public/assets_backlog/game-elems.tps": {
     "sha256": "3d3497bff6bcea99581c1ba639eb60a35f858bb50ec8c5cc65ccd9178534da2d",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/public/assets_backlog/hatch_in.json": {
     "sha256": "d21c112445fcb72e93dd2c02a542e16ebb2d1286e9cf6c868b70e87674ec08c6",
@@ -257,7 +257,7 @@
   },
   "K14_18_pixi/public/assets_backlog/p_tara.tps": {
     "sha256": "e6b9c39a72b4286e1f6176776c29d466ceda17d9c8a844972ea3ccd660bbd5ed",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/public/assets_backlog/packshot_bg_x066.jpg": {
     "sha256": "5f47f15060f515246fef228d5ac34937aa7ade544447f5b8cd9bec4d1ae820e1",
@@ -297,7 +297,7 @@
   },
   "K14_18_pixi/public/assets_backlog/sc2_without_bg.tps": {
     "sha256": "8d751291976ebcd9735a842f4eff1e0d06db2d8d1250b4df8a693e88f7709a5f",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/public/assets_backlog/sc2_without_bg_tex.webp": {
     "sha256": "282549123d817cf63e43a7ec63deb575ee0f20b59d59eca803c65699316b6dd3",
@@ -309,7 +309,7 @@
   },
   "K14_18_pixi/public/assets_backlog/sc3_kura_finish.tps": {
     "sha256": "539e72521d9f760a82d60864b7df1b3d7692983d76bf60505a680749ab513af6",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/public/assets_backlog/sc3_kura_finish_tex.webp": {
     "sha256": "d14fd6c56b66c54c92ed098550d234fc602ca0527994d374b69c2dace12958e2",
@@ -349,7 +349,7 @@
   },
   "K14_18_pixi/public/assets_backlog/ui-elems.tps": {
     "sha256": "caf4b2d9694e65eaa4e0ac610d4e87527a80045d0accd53c79f605ab9254dae4",
-    "text": false
+    "text": true
   },
   "K14_18_pixi/public/assets_compressed/atlas_game1.json": {
     "sha256": "8135c3ded5a2cc48dc92a08618fd29d9e2c66e3ce399600b7cbc4fa8f7937ab8",
