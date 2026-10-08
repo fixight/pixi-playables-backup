@@ -1,0 +1,87 @@
+$PROMPT_START$ prompt1
+ты профессиональный программист (javaScript/typescript/pixi) .
+Необходим рефакторингс добавлением функциональности.
+
+Сейчас:
+
+1) объекты создаются через функции в SpritesFactory
+export function spawnUISpriteElement({
+  game,
+  parent,
+  textureKey,
+  align,
+  offset,
+  blur = 0,
+  rotation = 0,
+  scale = 1,
+  alpha = 1,
+  anchor = { x: 0.5, y: 0.5 },
+  onTick,
+  onResize,
+}
+export function spawnUIAnimElement({
+  game,
+  parent,
+  animKey,
+  animationSpeed = 0.5,
+  loop = true,
+  align,
+  offset,
+  blur = 0,
+  scale = { x: 1, y: 1 },
+  alpha = 1,
+  rotation = 0,
+  onTick,
+  onResize,
+}
+но по сути это вьюха, поэтому нужна абстракция над ней.
+
+2) объектам требуется знать начальное состояние, типа initialScale, которое сейчас берется из конфига
+3) каждому объекту требуется анимации
+
+====================================================
+Поэтому необходимо создать тип объекта, который будет инкапсулировать эти концепции.
+
+1) Необходимо вынести 
+{
+	animationSpeed = 0.5,
+  loop = true,
+  align,
+  offset,
+  blur = 0,
+  scale = { x: 1, y: 1 },
+  alpha = 1,
+  rotation = 0,
+  anchor = { x: 0.5, y: 0.5 },
+  } для статик-спрайта в StatisSpriteOptions.
+
+
+
+Необходимо вынести 
+{	
+	align,
+  offset,
+  blur = 0,
+  rotation = 0,
+  scale = 1,
+  alpha = 1,
+  anchor = { x: 0.5, y: 0.5 },
+} для анимированного спрайта в AnimatedSpriteOptions
+
+
+2) Необходимо реализовать поддержку статик-спрайтов, которые представлены в атласе. Сейчас логика работы с атласом только у анимированных спрайтов, а статик-спрайты - в виде отдельных картинок. Она должна быть сохранена. То есть мы именно ДОБАВЛЯЕМ логику с атласом для статик-спрайтов.
+
+3) 
+Необходимо создать типы (классы) на основе вводных:
+
+- Тип объекта AnimatedSpriteObject получает в конструктор данные по аналогии с spawnUIAnimElement(), только опции будут как объект (см .п.1)
+- Тип объекта StaticSpriteObject получает в конструктор данные по аналогии с spawnUISpriteElement(), только опции будут как объект (см .п.1)
+- Тип объекта StaticAtlasObject получает в конструктор данные по аналогии с spawnUIAtlasElement() (реализованный в п.2), только опции будут как объект (см .п.1)
+- эти типы инкапсулируют в конструкторе: вызовы spawn**Element(), создание SpriteAnimator
+- перечисленные типы являются как бы абстрактными классами (если брать аналогию из c#)
+- при создании объекта "energy blast", мы должны создавать класс наследник от одного из перечисленных типов. EnergyBlast extends AnimatedSpriteObject. В классе наследнике (EnergyBlast) мы инкапсулируем также функции типа export function runEnergyBlastAnimation() , которые сейчас все свалены в main.
+
+
+
+
+$PROMPT_END$

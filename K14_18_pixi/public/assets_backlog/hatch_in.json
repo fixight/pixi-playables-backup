@@ -1,0 +1,95 @@
+{"frames": {
+
+"hatch_in_1106.png":
+{
+	"frame": {"x":1,"y":1,"w":24,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":251,"y":476,"w":24,"h":103},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1107.png":
+{
+	"frame": {"x":26,"y":1,"w":41,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":476,"w":41,"h":102},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1108.png":
+{
+	"frame": {"x":68,"y":1,"w":55,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":234,"y":476,"w":55,"h":102},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1109.png":
+{
+	"frame": {"x":124,"y":1,"w":69,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":476,"w":69,"h":101},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1110.png":
+{
+	"frame": {"x":1,"y":105,"w":79,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":476,"w":79,"h":100},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1111.png":
+{
+	"frame": {"x":81,"y":105,"w":88,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":476,"w":88,"h":100},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1112.png":
+{
+	"frame": {"x":1,"y":206,"w":94,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":476,"w":94,"h":100},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1113.png":
+{
+	"frame": {"x":96,"y":206,"w":97,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":476,"w":97,"h":99},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1114.png":
+{
+	"frame": {"x":1,"y":307,"w":98,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":476,"w":98,"h":99},
+	"sourceSize": {"w":720,"h":1281}
+},
+"hatch_in_1115.png":
+{
+	"frame": {"x":1,"y":307,"w":98,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":476,"w":98,"h":99},
+	"sourceSize": {"w":720,"h":1281}
+}},
+"animations": {
+	"hatch_in": ["hatch_in_1106.png","hatch_in_1107.png","hatch_in_1108.png","hatch_in_1109.png","hatch_in_1110.png","hatch_in_1111.png","hatch_in_1112.png","hatch_in_1113.png","hatch_in_1114.png","hatch_in_1115.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "hatch_in_tex.webp",
+	"format": "RGBA8888",
+	"size": {"w":194,"h":407},
+	"scale": "0.667",
+	"smartupdate": "$TexturePacker:SmartUpdate:729eeb4879ad7a44d8a6555e0c75dc2e:11d1d4e1534b7027081ccdef4752a46f:00b25542481409f02a9cfb90c50a23ef$"
+}
+}

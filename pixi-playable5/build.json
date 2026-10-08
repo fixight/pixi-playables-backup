@@ -1,0 +1,36 @@
+{
+  "filename": "{network}",
+  "app": "Ice Fishing",
+  "name": "IceFishingConcept",
+  "version": "v1.0",
+  "language": "IT",
+  "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.gokids.weight",
+  "appStoreUrl": "https://apps.apple.com/ru/app/life-in-chichen/id6757188664",
+  "translations": {
+    "DE": { 
+      "win": "GEWINN", "install": "JETZT INSTALLIEREN", "disclaimer": "Nur zu Illustrationszwecken", "claim": "ABHOLEN", "cashout": "AUSZAHLEN", "welcome": "WILLKOMMENSBONUS", "play": "SPIELEN",
+      "deposit_bonus": "EINZAHLUNGSBONUS", "free_spins": "FREISPIELE", "go": "LOS", "you_won": "DU HAST GEWONNEN!",
+      "download": "HERUNTERLADEN" 
+    },
+    "ES": { 
+      "win": "GANAR", "install": "INSTALAR AHORA", "disclaimer": "Solo con fines ilustrativos", "claim": "RECLAMAR", "cashout": "COBRAR", "welcome": "BONO DE BIENVENIDA", "play": "JUGAR",
+      "deposit_bonus": "BONO DE DEPOSITO", "free_spins": "GIROS GRATIS", "go": "VAMOS", "you_won": "HAS GANADO",
+      "download": "DESCARGAR" 
+    },
+    "IT": { 
+      "win": "VINCI", "install": "INSTALLA ORA", "disclaimer": "Solo a scopo illustrativo", "claim": "RISCATTA", "cashout": "INCASSA", "welcome": "BONUS DI BENVENUTO", "play": "GIOCA",
+      "deposit_bonus": "BONUS SUL DEPOSITO", "free_spins": "GIRI GRATIS", "go": "VAI", "you_won": "HAI VINTO!",
+      "download": "SCARICA" 
+    },
+    "FR": { 
+      "win": "GAGNER", "install": "INSTALLER", "disclaimer": "A des fins d'illustration uniquement", "claim": "RECUPERER", "cashout": "ENCAISSER", "welcome": "BONUS DE BIENVENUE", "play": "JOUER",
+      "deposit_bonus": "BONUS DEPOT", "free_spins": "TOURS GRATUITS", "go": "GO", "you_won": "VOUS AVEZ GAGNE!",
+      "download": "TELECHARGER" 
+    },
+    "NL": { 
+      "win": "WINNEN", "install": "NU INSTALLEREN", "disclaimer": "Alleen ter illustratie", "claim": "CLAIMEN", "cashout": "UITBETALEN", "welcome": "WELKOMSTBONUS", "play": "SPELEN",
+      "deposit_bonus": "STORTINGSBONUS", "free_spins": "GRATIS SPINS", "go": "GA", "you_won": "JE HEBT GEWONNEN!",
+      "download": "DOWNLOADEN" 
+    }
+  }
+}

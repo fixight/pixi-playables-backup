@@ -1,0 +1,53 @@
+{
+  "app": "K14_18", 
+  "network": "ironsource", 
+  "language": "EN", 
+  "filename": "{app}_{network}_{language}",
+  "zip": true, 
+
+  "NETWORKS": ["moloco"],
+
+  "AVAILABLE_NETWORKS": [
+    "preview",
+    "applovin",
+    "unity",
+    "google",
+    "ironsource",
+    "facebook",
+    "moloco",
+    "bigo",
+    "mintegral",
+    "vungle",
+    "adcolony",
+    "tapjoy",
+    "snapchat",
+    "tiktok",
+    "appreciate",
+    "chartboost",
+    "pangle",
+    "mytarget",
+    "liftoff",
+    "smadex",
+    "adikteev",
+    "bigabid",
+    "inmobi"
+  ],
+
+  "LOCALIZATION": {
+    "EN": {},
+
+    "FR": {},
+
+    "NL": {},
+
+    "DE": {},
+
+    "ES": {},
+
+    "IT": {},
+
+    "CH": {},
+
+    "BE": {}
+  }
+}

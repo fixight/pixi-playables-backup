@@ -1,0 +1,14 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; /* Убирает скроллбары */
+    background-color: #87CEEB; /* Цвет фона на всякий случай */
+}
+
+canvas {
+    display: block; /* Убирает отступ снизу у канваса */
+    width: 100%;
+    height: 100%;
+}

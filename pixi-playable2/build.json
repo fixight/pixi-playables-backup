@@ -1,0 +1,16 @@
+{
+  "filename": "{network}",
+  "app": "Ice Fishing",
+  "name": "IceFishingConcept",
+  "version": "v1.0",
+  "language": "NL",
+  "googlePlayUrl": "https://play.google.com/store/apps/details?id=...",
+  "appStoreUrl": "https://apps.apple.com/app/...",
+  "translations": {
+    "DE": { "win": "GEWINN", "install": "JETZT INSTALLIEREN", "disclaimer": "Nur zu Illustrationszwecken", "claim": "ABHOLEN", "cashout": "AUSZAHLEN", "welcome": "WILLKOMMENSBONUS", "play": "SPIELEN" },
+    "ES": { "win": "GANAR", "install": "INSTALAR AHORA", "disclaimer": "Solo con fines ilustrativos", "claim": "RECLAMAR", "cashout": "COBRAR", "welcome": "BONO DE BIENVENIDA", "play": "JUGAR" },
+    "IT": { "win": "VINCI", "install": "INSTALLA ORA", "disclaimer": "Solo a scopo illustrativo", "claim": "RISCATTA", "cashout": "INCASSA", "welcome": "BONUS DI BENVENUTO", "play": "GIOCA" },
+    "FR": { "win": "GAGNER", "install": "INSTALLER", "disclaimer": "A des fins d'illustration uniquement", "claim": "RECUPERER", "cashout": "ENCAISSER", "welcome": "BONUS DE BIENVENUE", "play": "JOUER" },
+    "NL": { "win": "WINNEN", "install": "NU INSTALLEREN", "disclaimer": "Alleen ter illustratie", "claim": "CLAIMEN", "cashout": "UITBETALEN", "welcome": "WELKOMSTBONUS", "play": "SPELEN" }
+  }
+}

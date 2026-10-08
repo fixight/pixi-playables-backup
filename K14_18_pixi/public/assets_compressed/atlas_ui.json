@@ -1,0 +1,84 @@
+{"frames": {
+
+"button_take_bonus_bg.png":
+{
+	"frame": {"x":3,"y":3,"w":1004,"h":364},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":1274,"w":1004,"h":364},
+	"sourceSize": {"w":1080,"h":1920}
+},
+"logo_big.png":
+{
+	"frame": {"x":1011,"y":3,"w":917,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":246,"w":917,"h":169},
+	"sourceSize": {"w":1080,"h":1920}
+},
+"sms_panel.png":
+{
+	"frame": {"x":3,"y":371,"w":1047,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":116,"w":1047,"h":240},
+	"sourceSize": {"w":1080,"h":1920}
+},
+"starsSky_x050.jpg":
+{
+	"frame": {"x":3,"y":615,"w":1460,"h":459},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1460,"h":459},
+	"sourceSize": {"w":1460,"h":459}
+},
+"top_panel.png":
+{
+	"frame": {"x":3,"y":1078,"w":1080,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":179},
+	"sourceSize": {"w":1080,"h":1920}
+},
+"ui_bottom_bg_bg.png":
+{
+	"frame": {"x":1087,"y":1078,"w":347,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":574,"y":1600,"w":347,"h":279},
+	"sourceSize": {"w":1080,"h":1920}
+},
+"ui_bottom_cash_out_bg.png":
+{
+	"frame": {"x":1438,"y":1078,"w":347,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":1603,"w":347,"h":279},
+	"sourceSize": {"w":1080,"h":1920}
+},
+"ui_bottom_with_text_x050.png":
+{
+	"frame": {"x":3,"y":1361,"w":509,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":509,"h":192},
+	"sourceSize": {"w":509,"h":192}
+},
+"win_panel.png":
+{
+	"frame": {"x":516,"y":1361,"w":1080,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":511,"w":1080,"h":418},
+	"sourceSize": {"w":1080,"h":1920}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "atlas_ui_tex.webp",
+	"format": "RGBA8888",
+	"size": {"w":1931,"h":1782},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:df4b8cbf94151f393983f7ce1a9cfe7e:717eb8265f94c600c1d0d1f3a9b95924:73a929f727e86a82071c76052f1feb40$"
+}
+}

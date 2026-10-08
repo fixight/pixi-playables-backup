@@ -1,0 +1,46 @@
+{
+  "filename": "{network}",
+  "app": "Ice Fishing",
+  "name": "IceFishingConcept",
+  "version": "v1.0",
+  "language": "BE",
+  "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=ru",
+  "appStoreUrl": "https://apps.apple.com/ru/app/life-in-chichen/id6757188664",
+  "translations": {
+    "DE": { 
+      "win": "GEWINN", "install": "JETZT INSTALLIEREN", "disclaimer": "Nur zu Illustrationszwecken", "claim": "ABHOLEN", "cashout": "AUSZAHLEN", "welcome": "WILLKOMMENSBONUS", "play": "SPIELEN",
+      "big_win": "MEGA GEWINN", "download": "HERUNTERLADEN", "withdraw": "ABHEBEN", "go": "LOS",
+      "collect_win": "GEWINN ABHOLEN", "neural_overload": "NEURONALE\nUBERLASTUNG\nERKANNT"
+    },
+    "ES": { 
+      "win": "GANAR", "install": "INSTALAR AHORA", "disclaimer": "Solo con fines ilustrativos", "claim": "RECLAMAR", "cashout": "COBRAR", "welcome": "BONO DE BIENVENIDA", "play": "JUGAR",
+      "big_win": "GRAN PREMIO", "download": "DESCARGAR", "withdraw": "RETIRAR", "go": "VAMOS",
+      "collect_win": "RECOGER PREMIO", "neural_overload": "SOBRECARGA\nNEURONAL\nDETECTADA"
+    },
+    "IT": { 
+      "win": "VINCI", "install": "INSTALLA ORA", "disclaimer": "Solo a scopo illustrativo", "claim": "RISCATTA", "cashout": "INCASSA", "welcome": "BONUS DI BENVENUTO", "play": "GIOCA",
+      "big_win": "GRANDE VINCITA", "download": "SCARICA", "withdraw": "PRELEVA", "go": "VAI",
+      "collect_win": "RITIRA VINCITA", "neural_overload": "SOVRACCARICO\nNEURALE\nRILEVATO"
+    },
+    "FR": { 
+      "win": "GAGNER", "install": "INSTALLER", "disclaimer": "A des fins d'illustration uniquement", "claim": "RECUPERER", "cashout": "ENCAISSER", "welcome": "BONUS DE BIENVENUE", "play": "JOUER",
+      "big_win": "GROS GAIN", "download": "TELECHARGER", "withdraw": "RETIRER", "go": "GO",
+      "collect_win": "RECUPERER GAIN", "neural_overload": "SURCHARGE\nNEURONALE\nDETECTEE"
+    },
+    "NL": { 
+      "win": "WINNEN", "install": "NU INSTALLEREN", "disclaimer": "Alleen ter illustratie", "claim": "CLAIMEN", "cashout": "UITBETALEN", "welcome": "WELKOMSTBONUS", "play": "SPELEN",
+      "big_win": "GROTE WINST", "download": "DOWNLOADEN", "withdraw": "OPNEMEN", "go": "GA",
+      "collect_win": "WINST OPHALEN", "neural_overload": "NEURONALE\nOVERBELASTING\nGEDETECTEERD"
+    },
+    "CH": { 
+      "win": "GEWINN", "install": "JETZT INSTALLIEREN", "disclaimer": "Nur zu Illustrationszwecken", "claim": "ABHOLEN", "cashout": "AUSZAHLEN", "welcome": "WILLKOMMENSBONUS", "play": "SPIELEN",
+      "big_win": "MEGA GEWINN", "download": "HERUNTERLADEN", "withdraw": "ABHEBEN", "go": "LOS",
+      "collect_win": "GEWINN ABHOLEN", "neural_overload": "NEURONALE\nUBERLASTUNG\nERKANNT"
+    },
+    "BE": { 
+      "win": "WINNEN", "install": "NU INSTALLEREN", "disclaimer": "Alleen ter illustratie", "claim": "CLAIMEN", "cashout": "UITBETALEN", "welcome": "WELKOMSTBONUS", "play": "SPELEN",
+      "big_win": "GROTE WINST", "download": "DOWNLOADEN", "withdraw": "OPNEMEN", "go": "GA",
+      "collect_win": "WINST OPHALEN", "neural_overload": "NEURONALE\nOVERBELASTING\nGEDETECTEERD"
+    }
+  }
+}

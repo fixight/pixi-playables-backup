@@ -1,0 +1,138 @@
+# ---------------------------
+
+# NET, nuget
+
+# ---------------------------
+
+*.sln
+*.csproj
+*.props
+*.targets
+Directory.Build.*
+wwwroot/lib/
+logs/
+*.log.*
+
+.nuget/
+packages/
+*.nupkg
+
+# ---------------------------
+
+# VCS
+
+# ---------------------------
+
+.git
+.gitmodules
+.gitignore
+
+# ---------------------------
+
+# Build outputs (.NET)
+
+# ---------------------------
+
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+
+# ---------------------------
+
+# Node / frontend
+
+# ---------------------------
+
+node_modules/
+dist/
+build/
+coverage/
+.npm/
+.pnpm-store/
+
+# ---------------------------
+
+# Python (если есть утилиты)
+
+# ---------------------------
+
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ---------------------------
+
+# Unity (если используется)
+
+# ---------------------------
+
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# ---------------------------
+
+# IDE
+
+# ---------------------------
+
+.vs/
+.vscode/
+.idea/
+
+# ---------------------------
+
+# OS files
+
+# ---------------------------
+
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+
+# Secrets / credentials
+
+# ---------------------------
+
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+*.cer
+credentials.json
+secrets.json
+appsettings.*.json
+
+# ---------------------------
+
+# OpenClaw internal
+
+# ---------------------------
+
+.openclaw/
+.openclaw-cache/
+
+# ---------------------------
+
+# Large artifacts
+
+# ---------------------------
+
+*.zip
+*.tar
+*.gz
+*.7z
+*.log
+*.dump

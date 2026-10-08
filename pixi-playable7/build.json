@@ -1,0 +1,165 @@
+{
+  "filename": "{network}",
+  "app": "Ice Fishing",
+  "name": "IceFishingConcept",
+  "version": "v1.0",
+  "language": "TR",
+  "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=ru",
+  "appStoreUrl": "https://apps.apple.com/ru/app/life-in-chichen/id6757188664",
+  "translations": {
+    "EN": {
+      "free_try": "FREE TRY",
+      "bonus": "BONUS",
+      "free_spins": "FREE SPINS",
+      "collect_bonus": "COLLECT BONUS",
+      "play": "PLAY",
+      "deposit_bonus_500": "BONUS FOR FIRST DEPOSIT UP TO 500 EUR",
+      "free_spins_250": "250 FREE SPINS",
+      "min_deposit_20": "MINIMAL FIRST DEPOSIT IS JUST 20 EUR",
+      "install": "INSTALL"
+    },
+    "ES": {
+      "free_try": "PRUEBA GRATIS",
+      "collect_bonus": "CONSIGUE UN BONO",
+      "bonus": "BONO",
+      "free_spins": "GIROS GRATIS",
+      "play": "JUEGA",
+      "deposit_bonus_500": "BONO POR TU PRIMER DEPOSITO DE HASTA 500 EUR",
+      "free_spins_250": "250 GIROS GRATIS",
+      "min_deposit_20": "DEPOSITO MINIMO INICIAL DE SOLO 20 EUR",
+      "install": "INSTALAR"
+    },
+    "IT": {
+      "free_try": "PROVA GRATUITA",
+      "collect_bonus": "OTTIENI BONUS",
+      "bonus": "BONUS",
+      "free_spins": "GIRI GRATIS",
+      "play": "GIOCA",
+      "deposit_bonus_500": "BONUS SUL PRIMO DEPOSITO FINO A 500 EUR",
+      "free_spins_250": "250 GIRI GRATUITI",
+      "min_deposit_20": "IL PRIMO DEPOSITO MINIMO E DI SOLI 20 EUR",
+      "install": "INSTALLA"
+    },
+    "NL": {
+      "free_try": "GRATIS PROBEREN",
+      "collect_bonus": "VERDIEN BONUS",
+      "bonus": "BONUS",
+      "free_spins": "GRATIS SPINS",
+      "play": "SPEEL",
+      "deposit_bonus_500": "BONUS TOT 500 EUR BIJ JE EERSTE STORTING",
+      "free_spins_250": "250 GRATIS SPINS",
+      "min_deposit_20": "MINIMALE EERSTE STORTING IS SLECHTS 20 EUR",
+      "install": "INSTALLEREN"
+    },
+    "PT": {
+      "free_try": "TESTE GRATIS",
+      "collect_bonus": "COLECIONE BONUS",
+      "bonus": "BONUS",
+      "free_spins": "GIROS GRATIS",
+      "play": "JOGUE",
+      "deposit_bonus_500": "PREMIO DE PRIMEIRO DEPOSITO ATE 500 EUR",
+      "free_spins_250": "250 JOGADAS GRATIS",
+      "min_deposit_20": "O PRIMEIRO DEPOSITO MINIMO E DE APENAS 20 EUR",
+      "install": "INSTALE"
+    },
+    "PL": {
+      "free_try": "DARMOWA PROBA",
+      "collect_bonus": "ODBIERZ BONUS",
+      "bonus": "BONUS",
+      "free_spins": "DARMOWE SPINY",
+      "play": "GRAJ",
+      "deposit_bonus_500": "BONUS ZA PIERWSZY DEPOZYT DO 500 EUR",
+      "free_spins_250": "250 DARMOWYCH SPINOW",
+      "min_deposit_20": "MINIMALNY PIERWSZY DEPOZYT TO ZALEDWIE 20 EUR",
+      "install": "ZAINSTALUJ"
+    },
+    "DE": {
+      "free_try": "KOSTENLOS TESTEN",
+      "collect_bonus": "BONUS SICHERN",
+      "bonus": "BONUS",
+      "free_spins": "FREISPIELE",
+      "play": "SPIELEN",
+      "deposit_bonus_500": "BONUS FUR DIE ERSTE EINZAHLUNG BIS ZU 500 EUR",
+      "free_spins_250": "250 FREISPIELE",
+      "min_deposit_20": "MINDESTEINZAHLUNG NUR 20 EUR",
+      "install": "INSTALLIEREN"
+    },
+    "CZ": {
+      "free_try": "VYZKOUSENI ZDARMA",
+      "collect_bonus": "ZISKEJTE BONUS",
+      "bonus": "BONUS",
+      "free_spins": "ROZTOCENI ZDARMA",
+      "play": "HRAJTE",
+      "deposit_bonus_500": "BONUS ZA PRVNI VKLAD AZ DO VYSE 500 EUR",
+      "free_spins_250": "250 ROZTOCENI ZDARMA",
+      "min_deposit_20": "MINIMALNI PRVNI VKLAD JE POUHYCH 20 EUR",
+      "install": "INSTALACE"
+    },
+    "RO": {
+      "free_try": "INCERCARE GRATUITA",
+      "collect_bonus": "COLECTARE BONUS",
+      "bonus": "BONUS",
+      "free_spins": "ROTIRI GRATUITE",
+      "play": "JOACA",
+      "deposit_bonus_500": "BONUS PENTRU PRIMA DEPUNERE DE PANA LA 500 EUR",
+      "free_spins_250": "250 ROTIRI GRATUITE",
+      "min_deposit_20": "PRIMA DEPUNERE MINIMA ESTE DE DOAR 20 EUR",
+      "install": "INSTALARE"
+    },
+    "HU": {
+      "free_try": "INGYENES PROBA",
+      "collect_bonus": "BONUSZ BEGYUJTESE",
+      "bonus": "BONUSZ",
+      "free_spins": "INGYENES PORGETES",
+      "play": "JATEK",
+      "deposit_bonus_500": "BONUSZ AZ ELSO BEFIZETESRE AKAR 500 EUR-IG",
+      "free_spins_250": "250 INGYENES PORGETES",
+      "min_deposit_20": "A MINIMALIS ELSO BEFIZETES MINDOSSZE 20 EUR",
+      "install": "TELEPITES"
+    },
+    "MY": {
+      "free_try": "CUBA PERCUMA",
+      "collect_bonus": "KUMPUL BONUS",
+      "bonus": "BONUS",
+      "free_spins": "PUTARAN PERCUMA",
+      "play": "BERMAIN",
+      "deposit_bonus_500": "BONUS UNTUK DEPOSIT PERTAMA SEHINGGA 500 EUR",
+      "free_spins_250": "250 PUTARAN PERCUMA",
+      "min_deposit_20": "DEPOSIT PERTAMA MINIMUM IALAH HANYA 20 EUR",
+      "install": "PASANG"
+    },
+    "FR": {
+      "free_try": "ESSAI GRATUIT",
+      "collect_bonus": "BONUS",
+      "bonus": "BONUS",
+      "free_spins": "TOURS GRATUITS",
+      "play": "JOUEZ",
+      "deposit_bonus_500": "BONUS POUR VOTRE PREMIER DEPOT JUSQU'A 500 EUR",
+      "free_spins_250": "250 TOURS GRATUITS",
+      "min_deposit_20": "PREMIER DEPOT MINIMUM 20 EUR",
+      "install": "INSTALLEZ"
+    },
+    "FI": {
+      "free_try": "ILMAINEN KOKEILU",
+      "collect_bonus": "KERAA BONUS",
+      "bonus": "BONUS",
+      "free_spins": "ILMAISKIERROKSET",
+      "play": "PELAA",
+      "deposit_bonus_500": "ENSIMMAISEN TALLETUKSEN BONUS JOPA 500 EUR ASTI",
+      "free_spins_250": "250 ILMAISKIERROSTA",
+      "min_deposit_20": "ENSIMMAISEN TALLETUKSEN MINIMISUMMA ON VAIN 20 EUR",
+      "install": "ASENNA"
+    },
+    "TR": {
+      "free_try": "UCRETSIZ DENEME",
+      "collect_bonus": "BONUS TOPLA",
+      "bonus": "BONUS",
+      "free_spins": "UCRETSIZ DONUS",
+      "play": "OYNA",
+      "deposit_bonus_500": "ILK PARA YATIRMA BONUSU 500 EUR'YA KADAR",
+      "free_spins_250": "250 UCRETSIZ DONUS",
+      "min_deposit_20": "MINIMUM ILK PARA YATIRMA SADECE 20 EUR'DUR",
+      "install": "YUKLE"
+    }
+  }
+}

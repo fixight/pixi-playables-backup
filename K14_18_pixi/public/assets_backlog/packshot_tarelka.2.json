@@ -1,0 +1,20 @@
+{"frames": {
+
+"packshot_tarelka_tex.webp":
+{
+	"frame": {"x":1,"y":1,"w":1965,"h":1623},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":1965,"h":1623},
+	"sourceSize": {"w":1967,"h":1625}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "packshot_tarelka_tex.2.webp",
+	"format": "RGBA8888",
+	"size": {"w":1967,"h":1625},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4586b9fc7f79d3886bf93f48f5cfce75:2d14d669ffbeb3c8c3a9e36492636466:8927f0dd352923900933d52f9c5f89d5$"
+}
+}
